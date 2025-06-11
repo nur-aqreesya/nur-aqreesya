@@ -5,7 +5,7 @@ A student who's passionate to learn more about coding and building progress.
 <table align="center">
   <tr>
     <td align="center" style="padding: 0 15px;">
-      <a href='www.linkedin.com/in/nur-aqreesya/'>
+      <a href='https://www.linkedin.com/in/nur-aqreesya/'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="55" height="55"/>
       </a>
     </td>
